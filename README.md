@@ -1,3 +1,2 @@
 # FileConfigurationProviderDemo
-1.运行dotnet run
-2.访问
+执行dotnet run，然后访问```http://localhost:5000```
